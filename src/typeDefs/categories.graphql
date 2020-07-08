@@ -1,0 +1,11 @@
+type Category {
+  id: ID!
+  name: String
+  image: String
+  explanation: String
+  level: String
+  content: String
+  updated_at: String
+  created_at: String
+  deleted_at: String
+}
