@@ -1,2 +1,3 @@
-# applo_server
-fes my first applo_server
+# applo_server_study
+
+sample localhost request
